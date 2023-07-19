@@ -3,8 +3,8 @@
 We are a team of dedicated individuals originating from Munich, Germany, who are passionate about harnessing solar energy to create a sustainable future.
 Our primary focus is on developing the website [openpv.de](https://www.openpv.de), which aims to simulate and visualize the solar potential on 3D building data.
 
+![openpv](https://github.com/open-pv/.github/assets/74312290/64b92933-acb5-44a5-9cd9-27f9a236936f)
 
-![openpv](https://github.com/open-pv/.github/assets/74312290/896420c7-2705-49b1-b22d-26d1ed2ee235)
 
 ## About [openpv.de](https://www.openpv.de)
 openpv.de is a project that combines our coding skills with a commitment to sustainability. 
