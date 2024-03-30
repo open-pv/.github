@@ -28,5 +28,6 @@ Thank you for your interest in OpenPV! Together, let's harness the power of sola
 ## Funding
 We thank our sponsors.
 
-<img src='https://github.com/open-pv/.github/assets/74312290/9dfa1ce4-adaf-4638-9cbc-e519b033331b' width='300'>
-
+<a href="https://prototypefund.de/">
+  <img src='https://github.com/open-pv/.github/assets/74312290/9dfa1ce4-adaf-4638-9cbc-e519b033331b' width='300'>
+</a>
