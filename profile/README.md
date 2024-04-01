@@ -1,29 +1,29 @@
 # Hi there and welcome to the OpenPV organization 👋
 
-We are a team of dedicated individuals originating from Munich, Germany, who are passionate about harnessing solar energy to create a sustainable future.
+We are a team of four developers from Munich, Germany, who are passionate about solar energy and fighting climate change.
 Our primary focus is on developing the website [openpv.de](https://www.openpv.de), which aims to simulate and visualize the solar potential on 3D building data.
 
 ![openpv](https://github.com/open-pv/.github/assets/74312290/64b92933-acb5-44a5-9cd9-27f9a236936f)
 
 
 ## About [openpv.de](https://www.openpv.de)
-openpv.de is a project that combines our coding skills with a commitment to sustainability. 
+OpenPV is a project that combines our coding skills with our eager to do something against climate change. 
 Our website provides users with a comprehensive understanding of solar energy potential for any given location in Bavaria. We want to add other states and 
 countries soon.
 
-By utilizing openly available 3D building data, [openpv.de](https://www.openpv.de) offers an accurate representation of how solar energy can be harnessed 
-across various building, both on roofs and facades. Whether you are an individual looking to install solar panels on your home or a professional 
-seeking insights for larger-scale solar projects, openpv.de empowers you to make informed decisions by visualizing the solar potential in a
+By utilizing openly available 3D building data, socalled LOD2 data, [openpv.de](https://www.openpv.de) offers an accurate representation of how solar energy can be harnessed both on roofs and facades.
+Whether you are an individual looking to install solar panels on your home or a professional 
+seeking insights for larger-scale solar projects, [openpv.de](https://www.openpv.de) empowers you to make informed decisions by visualizing the solar potential in a
 user-friendly manner.
 
 ## Open Source Initiative
 
-We firmly believe in the power of collaboration and knowledge sharing. To foster a strong community and drive innovation, we plan to make our
-codebase open source in the near future. This means that developers, researchers, and enthusiasts alike will have the opportunity to contribute
+We believe in the power of collaboration and knowledge sharing, hence we make our
+codebase open source, step by step. This means that developers and researchers will have the opportunity to contribute
 to the project, improve its functionalities, and adapt it to their specific needs.
 
 
-Thank you for your interest in OpenPV! Together, let's harness the power of solar energy to create a sustainable and bright future. ☀️
+Thank you for your interest in OpenPV! Let's harness the power of solar energy and create a sustainable and bright future. ☀️
 
 ## Funding
 We thank our sponsors.
