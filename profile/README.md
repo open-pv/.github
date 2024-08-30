@@ -1,7 +1,8 @@
 # Hi there and welcome to the OpenPV organization 👋
 
-We are a team of four developers from Munich, Germany, who are passionate about solar energy and fighting climate change.
+We are a team of four developers from Germany, who are passionate about solar energy and the energy transition.
 Our primary focus is on developing the website [openpv.de](https://www.openpv.de), which aims to simulate and visualize the solar potential on 3D building data.
+All our work is open-source.
 
 ![openpv](https://github.com/open-pv/.github/assets/74312290/64b92933-acb5-44a5-9cd9-27f9a236936f)
 
@@ -15,9 +16,9 @@ user-friendly manner.
 
 ## Open Source Initiative
 
-We believe in the power of collaboration and knowledge sharing, hence we make our
+We believe in the benefits of collaboration and knowledge sharing, hence we make our
 codebase open source, step by step. This means that developers and researchers will have the opportunity to contribute
-to the project, improve its functionalities, and adapt it to their specific needs.
+to the project and adapt it to their specific needs.
 
 
 ## Funding
