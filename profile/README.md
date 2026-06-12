@@ -1,24 +1,25 @@
 # Hi there and welcome to the OpenPV organization 👋
 
 We are a team of four developers from Germany, who wanted to bring their prototypical solar tool to the browser.
-Our primary focus is on developing the website [openpv.de](https://www.openpv.de), which aims to simulate and visualize the solar potential on 3D building data.
-Our work is open-source.
+Our primary focus is on developing 
+* the website [openpv.de](https://www.openpv.de)
+* the npm package [simshady](https://www.npmjs.com/package/@openpv/simshady)
 
-![openpv](https://github.com/open-pv/.github/assets/74312290/64b92933-acb5-44a5-9cd9-27f9a236936f)
+
+
+
+
+https://github.com/user-attachments/assets/b1cfabff-ccb8-498c-a8a7-8c05b24b69df
+
+
+
+
 
 
 ## About [openpv.de](https://www.openpv.de)
 Our website provides users with a simple interface to determine the solar energy potential of their building. 
-By using openly available 3D building data, socalled LOD2 data, [openpv.de](https://www.openpv.de) offers simple web based tool to estimate PV yields for both roofs and balconies.
-We aim at providing a first estimate of PV potential. 
-
-## Open Source Initiative
-
-We believe in the benefits of collaboration and knowledge sharing, hence we have our
-codebase open source. This means that developers and researchers will have the opportunity to contribute
-to the project and adapt it to their specific needs.
-
-Our two main repositories are the `website` for the frontend code as well as `simshady` for the simulation code on the GPU.
+By using openly available 3D building data, socalled LOD2 data, you can estimate your PV yield for roofs or facades.
+We aim at providing a first estimate of PV potential - openpv is not a professional tool for solar installations. 
 
 
 ## Funding
